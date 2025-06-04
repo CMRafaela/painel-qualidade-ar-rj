@@ -55,3 +55,6 @@ npm install
 
 # Rode o servidor local
 npm run dev
+
+🧑‍💻 Feito por
+Rafaela Cutalo 🚀
