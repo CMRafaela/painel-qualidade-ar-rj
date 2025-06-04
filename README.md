@@ -39,27 +39,8 @@ navegue até o repositório clonado: cd seu-repo
     Acesse: http://localhost:3000
 
 📁 Estrutura do Projeto (resumida)
-src/
-|\_\_ **tests**/
-| |**Filtro.test.tsx
-| |**page.test.tsx
-├── app/
-│ ├── api/qualidade-ar/route.ts # Mock da API
-│ ├── globals.css
-│ └── layout.tsx
-| └── page.tsx
-├── components/
-│ ├── Filtro.tsx
-│ ├── Footer.tsx
-│ ├── Header.tsx
-| |\_\_ Home.tsx
-│ ├── Mapa.tsx
-│ ├── ModalDetalhes.tsx
-│ ├── QualidadeIcone.tsx
-│ └── Tabela.tsx
-├── hooks/
-│ └── useQualidadeAr.ts
-├── vitest.setup.ts
+![image](https://github.com/user-attachments/assets/14a5f838-be98-4484-9342-746415b60a06)
+
 
 🧪 Como Rodar os Testes
 npm run test
