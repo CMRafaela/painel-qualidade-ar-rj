@@ -38,9 +38,6 @@ navegue até o repositório clonado: cd seu-repo
     Rode o servidor local: npm run dev
     Acesse: http://localhost:3000
 
-📁 Estrutura do Projeto (resumida)
-![image](https://github.com/user-attachments/assets/14a5f838-be98-4484-9342-746415b60a06)
-
 
 🧪 Como Rodar os Testes
 npm run test
